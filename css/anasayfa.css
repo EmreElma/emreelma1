@@ -1,0 +1,147 @@
+.ad {
+    position: absolute;
+    right: 1px;
+    top: 500px;  
+}
+
+body {
+background-color: #;
+}
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+position: absolute;
+font-family: 'Montserrat', sans-serif;
+
+      left: 850px;
+      top: 10px;
+    overflow: hidden;
+    background-color: #36f200;
+}
+
+li {
+    display:inline-block;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 16px 16px;
+    text-decoration: none;
+
+}
+
+li a:hover{
+    background-color:#ff0303; 
+}
+
+ul li ul {
+    background-color:#2c3e50;
+    display:none;
+    position:absolute;
+    width:150px
+    
+}
+
+ul li:hover ul{
+    display:block;
+}
+li ul li {
+    display:block; 
+}
+
+
+
+.performans {
+
+position: absolute;
+
+top: 200px;
+left: -30px;
+
+
+}
+
+.performans:hover {
+ z-index:2;
+    -webkit-transform: scale(1.2);
+    -ms-transform: scale(1.2);  
+    -moz-transform: scale(1.2);
+    transform: scale(1.2);
+-webkit-filter: opacity(100%);
+}
+
+
+.guvenlik {
+
+position: absolute;
+
+top: 185px;
+left: 430px;
+
+
+}
+
+.guvenlik:hover {
+ z-index:2;
+    -webkit-transform: scale(1.2);
+    -ms-transform: scale(1.2);  
+    -moz-transform: scale(1.2);
+    transform: scale(1.2);
+-webkit-filter: opacity(100%);
+}
+
+
+.rahatlik {
+
+position: absolute;
+
+top: 145px;
+left: 850px;
+
+
+}
+
+.rahatlik:hover {
+ z-index:2;
+    -webkit-transform: scale(1.2);
+    -ms-transform: scale(1.2);  
+    -moz-transform: scale(1.2);
+    transform: scale(1.2);
+-webkit-filter: opacity(100%);
+}
+
+
+.ucuz {
+
+position: absolute;
+
+top: -70px;
+left: 450px;
+
+
+}
+
+
+.ucuz:hover {
+ z-index:2;
+    -webkit-transform: scale(1.2);
+    -ms-transform: scale(1.2);  
+    -moz-transform: scale(1.2);
+    transform: scale(1.2);
+-webkit-filter: opacity(100%);
+}
+
+
+.yazi1
+{
+ position: absolute;
+
+left: 5px;
+top: 175px;
+
+}
